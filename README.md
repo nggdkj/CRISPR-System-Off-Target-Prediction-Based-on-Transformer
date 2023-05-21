@@ -1,7 +1,7 @@
 # **CRISPR System Off-Target Prediction Based on Transformer**
 This repository includes a coding scheme and a neural network named New-model to predict off-target activities with insertions, deletions, and mismatches in CRISPR/Cas9 gene editing. 
 
-![image-20230521183457116](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20230521183457116.png)
+![模型结构](D:\NGGDKJ\毕业\毕设\论文\绘图与表格\模型结构.jpg)
 
 ## Prerequisite
 tensorflow:2.3.2-gpu.
